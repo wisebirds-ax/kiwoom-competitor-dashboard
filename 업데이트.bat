@@ -27,8 +27,14 @@ git commit -m "데이터 업데이트"
 git push
 
 echo.
+echo [3단계] 웹사이트 배포 중...
+cd packages\dashboard
+vercel --prod
+cd ..\..
+
+echo.
 echo ===================================
 echo   완료!
-echo   2~3분 후 웹사이트에 반영됩니다.
+echo   대시보드가 업데이트됐습니다.
 echo ===================================
 pause
