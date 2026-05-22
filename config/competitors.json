@@ -1,0 +1,147 @@
+{
+  "competitors": [
+    {
+      "key": "mirae",
+      "name_kr": "미래에셋증권",
+      "name_en": "Mirae Asset Securities",
+      "is_client": false,
+      "meta": {
+        "page_id": "170679759615120",
+        "handle": "miraeassetmstock"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR11442509105290280961",
+          "AR08115540937167339521",
+          "AR12297275337418473473",
+          "AR00854558999956160513",
+          "AR04197632599654400001",
+          "AR17453773524937211905"
+        ],
+        "primary_advertiser_id": "AR11442509105290280961",
+        "search_aliases": ["미래에셋증권", "미래에셋"]
+      }
+    },
+    {
+      "key": "samsung",
+      "name_kr": "삼성증권",
+      "name_en": "Samsung Securities",
+      "is_client": false,
+      "meta": {
+        "page_id": "319384881497144",
+        "handle": "samsungsecurities.official"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR11621934095679881217",
+          "AR14694355099950514177",
+          "AR09223884254654496769"
+        ],
+        "primary_advertiser_id": "AR11621934095679881217",
+        "search_aliases": ["삼성증권"]
+      }
+    },
+    {
+      "key": "kis",
+      "name_kr": "한국투자증권",
+      "name_en": "Korea Investment & Securities",
+      "is_client": false,
+      "meta": {
+        "page_id": "306222562786526",
+        "handle": "bankiszon1"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR14106116241651400705",
+          "AR07874685931486183425",
+          "AR01997804501590867969",
+          "AR09553476196658839553",
+          "AR14881463374515798017"
+        ],
+        "primary_advertiser_id": "AR14106116241651400705",
+        "search_aliases": ["한국투자증권"]
+      }
+    },
+    {
+      "key": "nh",
+      "name_kr": "NH투자증권",
+      "name_en": "NH Investment & Securities",
+      "is_client": false,
+      "meta": {
+        "page_id": "130795396974886",
+        "handle": "no1nhwm"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR04004909127795998721",
+          "AR03548131496076247041",
+          "AR16223565793235828737",
+          "AR16050678730913218561"
+        ],
+        "primary_advertiser_id": "AR04004909127795998721",
+        "search_aliases": ["엔에이치투자증권", "NH투자증권"]
+      }
+    },
+    {
+      "key": "kb",
+      "name_kr": "KB증권",
+      "name_en": "KB Securities",
+      "is_client": false,
+      "meta": {
+        "page_id": "526540400777484",
+        "handle": "kbsecable1"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR07030169028924538881"
+        ],
+        "primary_advertiser_id": "AR07030169028924538881",
+        "search_aliases": ["케이비증권", "KB증권"]
+      }
+    },
+    {
+      "key": "toss",
+      "name_kr": "토스증권",
+      "name_en": "Toss Securities",
+      "is_client": false,
+      "meta": {
+        "page_id": "103399848375983",
+        "handle": "toss.securities"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR06938601451455250433",
+          "AR10317109862785351681"
+        ],
+        "primary_advertiser_id": "AR06938601451455250433",
+        "search_aliases": ["토스증권"]
+      }
+    },
+    {
+      "key": "kiwoom",
+      "name_kr": "키움증권",
+      "name_en": "Kiwoom Securities",
+      "is_client": true,
+      "meta": {
+        "page_id": "131281780274622",
+        "handle": "kiwoomhero"
+      },
+      "google": {
+        "advertiser_ids": [
+          "AR16987959307796480001",
+          "AR03097745179419869185"
+        ],
+        "primary_advertiser_id": "AR16987959307796480001",
+        "search_aliases": ["키움증권"]
+      }
+    }
+  ],
+  "removed": [
+    {
+      "key": "kakaopay",
+      "name_kr": "카카오페이증권",
+      "reason": "No independent advertiser presence on Meta or Google. Parent 카카오페이 runs ads but separating 증권 vertical is infeasible.",
+      "removed_at": "2026-05-11"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "key": "mirae",
+    "name_kr": "미래에셋증권",
+    "aliases": [
+      "미래에셋"
+    ],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  },
+  {
+    "key": "samsung",
+    "name_kr": "삼성증권",
+    "aliases": [],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  },
+  {
+    "key": "kis",
+    "name_kr": "한국투자증권",
+    "aliases": [
+      "한투"
+    ],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  },
+  {
+    "key": "nh",
+    "name_kr": "NH투자증권",
+    "aliases": [
+      "NH나무",
+      "NH나무증권"
+    ],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  },
+  {
+    "key": "kb",
+    "name_kr": "KB증권",
+    "aliases": [],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  },
+  {
+    "key": "toss",
+    "name_kr": "토스증권",
+    "aliases": [
+      "Toss Securities"
+    ],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  },
+  {
+    "key": "kakaopay",
+    "name_kr": "카카오페이증권",
+    "aliases": [],
+    "candidates": [],
+    "active_ads_by_page": {},
+    "search_total_results": null,
+    "unique_ids": []
+  }
+]

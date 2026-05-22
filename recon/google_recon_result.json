@@ -1,0 +1,382 @@
+[
+  {
+    "query": "미래에셋증권",
+    "candidates": [
+      {
+        "name": "미래에셋증권 주식회사",
+        "advertiser_id": "AR11442509105290280961",
+        "region": "KR",
+        "ads_min": 900,
+        "ads_max": 1000
+      },
+      {
+        "name": "미래에셋증권",
+        "advertiser_id": "AR08115540937167339521",
+        "region": "KR",
+        "ads_min": 400,
+        "ads_max": 500
+      },
+      {
+        "name": "미래에셋증권 주식회사",
+        "advertiser_id": "AR12297275337418473473",
+        "region": "KR",
+        "ads_min": 58,
+        "ads_max": 58
+      },
+      {
+        "name": "미래에셋증권",
+        "advertiser_id": "AR00854558999956160513",
+        "region": "KR",
+        "ads_min": 43,
+        "ads_max": 43
+      },
+      {
+        "name": "미래에셋증권 주식회사",
+        "advertiser_id": "AR04197632599654400001",
+        "region": "KR",
+        "ads_min": 40,
+        "ads_max": 40
+      },
+      {
+        "name": "미래에셋증권",
+        "advertiser_id": "AR17453773524937211905",
+        "region": "KR",
+        "ads_min": 18,
+        "ads_max": 18
+      }
+    ]
+  },
+  {
+    "query": "삼성증권",
+    "candidates": [
+      {
+        "name": "삼성증권주식회사",
+        "advertiser_id": "AR11621934095679881217",
+        "region": "KR",
+        "ads_min": 1000,
+        "ads_max": 2000
+      },
+      {
+        "name": "삼성증권주식회사",
+        "advertiser_id": "AR14694355099950514177",
+        "region": "KR",
+        "ads_min": 34,
+        "ads_max": 34
+      },
+      {
+        "name": "삼성증권",
+        "advertiser_id": "AR09223884254654496769",
+        "region": "KR",
+        "ads_min": 13,
+        "ads_max": 13
+      }
+    ]
+  },
+  {
+    "query": "한국투자증권",
+    "candidates": [
+      {
+        "name": "한국투자증권",
+        "advertiser_id": "AR14106116241651400705",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200
+      },
+      {
+        "name": "한국투자증권",
+        "advertiser_id": "AR07874685931486183425",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200
+      },
+      {
+        "name": "한국투자증권(주)",
+        "advertiser_id": "AR01997804501590867969",
+        "region": "KR",
+        "ads_min": 66,
+        "ads_max": 66
+      },
+      {
+        "name": "한국투자증권(주)",
+        "advertiser_id": "AR09553476196658839553",
+        "region": "KR",
+        "ads_min": 10,
+        "ads_max": 10
+      },
+      {
+        "name": "한국투자증권 (주)",
+        "advertiser_id": "AR14881463374515798017",
+        "region": "KR",
+        "ads_min": 10,
+        "ads_max": 10
+      }
+    ]
+  },
+  {
+    "query": "NH투자증권",
+    "candidates": [
+      {
+        "name": "Nhung Le",
+        "advertiser_id": "AR02270414717342187521",
+        "region": "US",
+        "ads_min": 14,
+        "ads_max": 14
+      },
+      {
+        "name": "NH선물",
+        "advertiser_id": "AR09219021647300788225",
+        "region": "KR",
+        "ads_min": 11,
+        "ads_max": 11
+      },
+      {
+        "name": "Đồng Như Hà",
+        "advertiser_id": "AR17353184823929208833",
+        "region": "VN",
+        "ads_min": 9,
+        "ads_max": 9
+      },
+      {
+        "name": "NHN Edu",
+        "advertiser_id": "AR16411996067324755969",
+        "region": "KR",
+        "ads_min": 8,
+        "ads_max": 8
+      },
+      {
+        "name": "Vo Nhat Bao",
+        "advertiser_id": "AR02707559486616240129",
+        "region": "JP",
+        "ads_min": 2,
+        "ads_max": 2
+      },
+      {
+        "name": "NHN",
+        "advertiser_id": "AR17612147145442328577",
+        "region": "KR",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "ca nhan",
+        "advertiser_id": "AR03122504463290466305",
+        "region": "VN",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "NHE Inc.",
+        "advertiser_id": "AR07966011805375922177",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "NHS, Inc.",
+        "advertiser_id": "AR06674332036422959105",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "Nhan Huynh",
+        "advertiser_id": "AR14898591721272115201",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      }
+    ]
+  },
+  {
+    "query": "NH나무증권",
+    "candidates": [
+      {
+        "name": "Nhung Le",
+        "advertiser_id": "AR02270414717342187521",
+        "region": "US",
+        "ads_min": 14,
+        "ads_max": 14
+      },
+      {
+        "name": "NH선물",
+        "advertiser_id": "AR09219021647300788225",
+        "region": "KR",
+        "ads_min": 11,
+        "ads_max": 11
+      },
+      {
+        "name": "Đồng Như Hà",
+        "advertiser_id": "AR17353184823929208833",
+        "region": "VN",
+        "ads_min": 9,
+        "ads_max": 9
+      },
+      {
+        "name": "NHN Edu",
+        "advertiser_id": "AR16411996067324755969",
+        "region": "KR",
+        "ads_min": 8,
+        "ads_max": 8
+      },
+      {
+        "name": "Vo Nhat Bao",
+        "advertiser_id": "AR02707559486616240129",
+        "region": "JP",
+        "ads_min": 2,
+        "ads_max": 2
+      },
+      {
+        "name": "NHN",
+        "advertiser_id": "AR17612147145442328577",
+        "region": "KR",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "ca nhan",
+        "advertiser_id": "AR03122504463290466305",
+        "region": "VN",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "NHE Inc.",
+        "advertiser_id": "AR07966011805375922177",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "NHS, Inc.",
+        "advertiser_id": "AR06674332036422959105",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "Nhan Huynh",
+        "advertiser_id": "AR14898591721272115201",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      }
+    ]
+  },
+  {
+    "query": "KB증권",
+    "candidates": [
+      {
+        "name": "KB손해보험",
+        "advertiser_id": "AR02181186118932758529",
+        "region": "KR",
+        "ads_min": 800,
+        "ads_max": 900
+      },
+      {
+        "name": "(주) KB국민카드",
+        "advertiser_id": "AR01736086872658018305",
+        "region": "KR",
+        "ads_min": 500,
+        "ads_max": 600
+      },
+      {
+        "name": "KB자산운용",
+        "advertiser_id": "AR11220893714849202177",
+        "region": "KR",
+        "ads_min": 200,
+        "ads_max": 300
+      },
+      {
+        "name": "(주) KB국민카드",
+        "advertiser_id": "AR15887140523903811585",
+        "region": "KR",
+        "ads_min": 86,
+        "ads_max": 86
+      },
+      {
+        "name": "(주)KB국민카드",
+        "advertiser_id": "AR06568171311133097985",
+        "region": "KR",
+        "ads_min": 80,
+        "ads_max": 80
+      },
+      {
+        "name": "(주) KB국민카드",
+        "advertiser_id": "AR15543257653747646465",
+        "region": "KR",
+        "ads_min": 55,
+        "ads_max": 55
+      },
+      {
+        "name": "KBC　UNIE",
+        "advertiser_id": "AR02233590492380004353",
+        "region": "JP",
+        "ads_min": 11,
+        "ads_max": 11
+      },
+      {
+        "name": "KB회원권거래소",
+        "advertiser_id": "AR02904769137714659329",
+        "region": "KR",
+        "ads_min": 5,
+        "ads_max": 5
+      },
+      {
+        "name": "KBT Ltd",
+        "advertiser_id": "AR17037108611429433345",
+        "region": "GB",
+        "ads_min": 1,
+        "ads_max": 1
+      },
+      {
+        "name": "KBTOYZ LLC",
+        "advertiser_id": "AR06591080297322774529",
+        "region": "US",
+        "ads_min": 1,
+        "ads_max": 1
+      }
+    ]
+  },
+  {
+    "query": "토스증권",
+    "candidates": [
+      {
+        "name": "토스증권 주식회사",
+        "advertiser_id": "AR06938601451455250433",
+        "region": "KR",
+        "ads_min": 46,
+        "ads_max": 46
+      },
+      {
+        "name": "토스증권(주)",
+        "advertiser_id": "AR10317109862785351681",
+        "region": "KR",
+        "ads_min": 2,
+        "ads_max": 2
+      }
+    ]
+  },
+  {
+    "query": "카카오페이증권",
+    "candidates": []
+  },
+  {
+    "query": "키움증권",
+    "candidates": [
+      {
+        "name": "키움증권(주)",
+        "advertiser_id": "AR16987959307796480001",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200
+      },
+      {
+        "name": "키움증권(주)",
+        "advertiser_id": "AR03097745179419869185",
+        "region": "KR",
+        "ads_min": 31,
+        "ads_max": 31
+      }
+    ]
+  }
+]

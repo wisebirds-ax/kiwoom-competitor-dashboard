@@ -1,0 +1,1930 @@
+[
+  {
+    "query": "미래에셋증권",
+    "captured": 4,
+    "advertisers": [
+      {
+        "page_id": "170679759615120",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "212200701977842",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "137075373000152",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "267432789788689",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "1030476253493463",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "176359082217901",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "936436239557168",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "145613162255988",
+        "name": null,
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1063966316802340",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "245354778852689",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uae08\\uc735\\uc11c\\ube44\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "526033494110615",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc0dd\\uba85",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "362683767396667",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\ud22c\\uc790\\uc640\\uc5f0\\uae08\\uc13c\\ud130",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "494983110590416",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b \\uc544\\uc774\\uc62c iALL",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105047290981743",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b \\uc6b0\\ub9ac\\uc544\\uc774\\ud380\\ub4dc",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "113255650234882",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uce90\\ud53c\\ud0c8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "455759995161621",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc0dd\\uba85 Synergy-Fs\\uacfc\\uc815 1\\uae30 \\ubaa8\\uc9d1",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "118262986748257",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "121524484373023",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "176483748885638",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uae08\\uc735\\uadf8\\ub8f9 \\ud68c\\uc7a5 \\ubc15\\ud604\\uc8fc",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "110127755489437",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c\\uc740  \\ucd5c\\ud64d\\uc11d",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "174971775688750",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uae08\\uc735",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102210344940396",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "103869182689768",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "136572419542881",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c \\ub274\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "146590801871283",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "154810891044937",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "164435773427798",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "338256139381104",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c\\uc740 \\ucd5c\\ud64d\\uc11d",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "342778095575367",
+        "name": "\\ubbf8\\ub798\\uc5d0\\uc14b\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "삼성증권",
+    "captured": 5,
+    "advertisers": [
+      {
+        "page_id": "319384881497144",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "267432789788689",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "137075373000152",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "1436823969867685",
+        "name": null,
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "2009750955713222",
+        "name": "\\uc0bc\\uc131\\ubb3c\\uc0b0 \\ud328\\uc158\\ubd80\\ubb38",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "152857838107621",
+        "name": "\\uc0bc\\uc131 \\uccad\\ub144 SW \\uc544\\uce74\\ub370\\ubbf8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "314882591487",
+        "name": "\\uc0bc\\uc131\\uce74\\ub4dc(Samsungcard)",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "192460547440362",
+        "name": "\\uc0bc\\uc131\\uc804\\uc790 \\ub274\\uc2a4\\ub8f8",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "184256088308875",
+        "name": "\\uc0bc\\uc131\\ud654\\uc7ac \\ub2e4\\uc774\\ub809\\ud2b8 \\ucc29",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "329196643760407",
+        "name": "\\uc0bc\\uc131\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "188245544527182",
+        "name": "\\uc0bc\\uc131SDS (Samsung SDS)",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "132765426797294",
+        "name": "\\uc0bc\\uc131\\ud654\\uc7ac",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1191534250974260",
+        "name": "\\uc0bc\\uc131\\ubb3c\\uc0b0 \\uac74\\uc124\\ubd80\\ubb38",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "110597703638132",
+        "name": "\\uc0bc\\uc131\\uc6f0\\uc2a4\\ud1a0\\ub9ac",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "582102135150994",
+        "name": "\\uc0bc\\uc131\\uad6c\\ubbf8\\uc6e8\\ub529\\ubc15\\ub78c\\ud68c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "351162064927581",
+        "name": "\\uc0bc\\uc131\\ub514\\uc2a4\\ud50c\\ub808\\uc774",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "864772060054678",
+        "name": "\\uc0bc\\uc131\\uc804\\uc790 \\ubc18\\ub3c4\\uccb4 \\ub274\\uc2a4\\ub8f8",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "390175651096135",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "859714370568981",
+        "name": "\\uc0bc\\uc131\\uc804\\uc790 \\ub274\\uc2a4\\ub8f8",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "532282707266733",
+        "name": "\\uc0bc\\uc131\\ud654\\uc7ac \\ub2e4\\uc774\\ub809\\ud2b8 \\ucc29",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "493040194126214",
+        "name": "No.1 \\ub2e8\\uae30\\uc784\\ub300 \\uc571 33m2-\\uc0bc\\uc0bc\\uc5e0\\ud22c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "773062329233180",
+        "name": "\\ud1a0\\uc18d\\ucd0c \\uc0bc\\uacc4\\ud0d5 - \\u571f\\u4fd7\\u6751 \\u8518\\u9dc4\\u6e6f",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "230499651114118",
+        "name": "\\uc0bc\\uc131\\uc2a4\\ud1a0\\uc5b4(Samsung Store)",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105013218254284",
+        "name": "\\uc0bc\\uc775\\uac00\\uad6c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "936539016218927",
+        "name": "\\uc0bc\\ub300\\uc624\\ubc31",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "109665564089788",
+        "name": "\\uc0bc\\uc131\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102110728187616",
+        "name": "\\uc7ac\\ud14c\\ud06c \\uc0bc\\uc131\\uc99d\\uad8c\\uc810",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "300127509840819",
+        "name": "\\ud558\\uc774",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "323040127552029",
+        "name": "\\uc0bc\\uc131\\uc99d\\uad8c \\ub300\\ud559\\uc0dd \\uba64\\ubc84\\uc2ed Young Creator",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "398196306707818",
+        "name": "\\uc0bc\\uc131\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "한국투자증권",
+    "captured": 7,
+    "advertisers": [
+      {
+        "page_id": "267432789788689",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "120133724384246",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "137075373000152",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "1430392440548491",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "936436239557168",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "1972681879693559",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "969033712948888",
+        "name": "\\ud55c\\ud3b8 \\uc3d9 \\ub4dc\\ub77c\\ub9c8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "104127532679607",
+        "name": "\\ud55c\\ud3b8 \\uc3d9 \\ub4dc\\ub77c\\ub9c8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "190617250955666",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "142795103084194",
+        "name": "Lenovo Korea - \\ud55c\\uad6d\\ub808\\ub178\\ubc84",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "128619113911020",
+        "name": "\\ud55c\\ub07c\\ud1b5\\uc0b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "260530117384959",
+        "name": "\\ud55c\\uc0d8 - Hanssem",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1608514215945527",
+        "name": "\\ud55c\\ud654\\uc0dd\\uba85",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "212102055468664",
+        "name": "\\ud55c\\ud488",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "155199524511865",
+        "name": "KBS \\ud55c\\uad6d\\ubc29\\uc1a1",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "204071546359884",
+        "name": "\\uad6d\\uc81c\\uc570\\ub124\\uc2a4\\ud2f0 \\ud55c\\uad6d\\uc9c0\\ubd80",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "520653137962924",
+        "name": "\\ud55c\\ud654\\ub370\\uc774\\uc988(Hanwha)",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "321527634535497",
+        "name": "\\ud55c\\uad6d\\ud574\\ube44\\ud0c0\\ud2b8(Habitat Korea)",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "131062503667752",
+        "name": "\\ud55c\\uc9c0\\ubbfc",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "152474381478338",
+        "name": "\\ud55c\\uc194\\uad50\\uc721(Hansol Education)",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "109920055281868",
+        "name": "Boo \\ud55c\\uad6d",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "921689421022790",
+        "name": "\\uad6d\\uc81c\\uc570\\ub124\\uc2a4\\ud2f0 \\ud55c\\uad6d\\uc9c0\\ubd80",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "191223204077180",
+        "name": "\\uc9c4\\uc194",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "714368595091211",
+        "name": "Hinovel-\\ud55c\\uad6d\\uc758",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "121213341234498",
+        "name": "\\ud55c\\uad6d\\ucef4\\ud328\\uc158",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "304993409612881",
+        "name": "\\ud55c\\uad6d\\ucef4\\ud328\\uc158",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "359450911121234",
+        "name": "LST: \\ud55c\\uad6d\\uc5d0\\uc11c \\uc990\\uae30\\ub294 \\uc720\\ud559\\uc0dd\\ud65c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "157370204315766",
+        "name": "\\ud55c\\uad6dit\\uc804\\ubb38\\ud559\\uad50",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "772872915910204",
+        "name": "\\ud55c\\uad6d\\uc77c\\ubcf4",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "306222562786526",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "113939996982995",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "369098993636990",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\ud30c\\ud2b8\\ub108\\uc2a4 - Korea Investment Partners",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1026587907493532",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "238697559868884",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc5b4\\ud328\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1048968178469711",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc800\\ucd95\\uc740\\ud589",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "149558675719493",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc800\\ucd95\\uc740\\ud589",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "107080750718960",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc790\\uc0b0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "108848910568631",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc800\\ucd95 \\uc11c\\ubbfc\\ub300\\ucd9c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "103769151713803",
+        "name": "\\ud55c\\uad6d\\ud22c\\uba85\\uc131\\uae30\\uad6c \\uccad\\ub144\\uc704\\uc6d0\\ud68c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1972579876362696",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uae30\\uae08",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "189553548526015",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc800\\ucd95\\uc740\\ud589",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102078828605852",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc800\\ucd95\\uc740\\ud589 \\uc9c0\\uc6d0\\uc13c\\ud130",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "101239542987319",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c \\ud1f4\\uc9c1\\uc5f0\\uae08",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "108516012222347",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c \\ud1f4\\uc9c1\\uc5f0\\uae08",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "108050650619972",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc800\\ucd95\\uc740\\ud589",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "115197290124586",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790 \\uc800\\ucd95\\uc740\\ud589",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "106603199118379",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c \\ud1f4\\uc9c1\\uc5f0\\uae08",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "221135537758679",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c \\ucc44\\uc6a9",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "711101822660327",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c.",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "167757219757232",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "109767688822550",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "111821645306498",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "104062012575823",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "200195559854475",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "288065041066421",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "303579669513586",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "318440871357969",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "334675843059997",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "327392573796500",
+        "name": "\\ud55c\\uad6d\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "NH투자증권",
+    "captured": 6,
+    "advertisers": [
+      {
+        "page_id": "117437508049517",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "267432789788689",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "383895748147521",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "269154683242820",
+        "name": "Nh \\ud22c\\uc790",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "135573859646199",
+        "name": "Nh \\ud22c\\uc790",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "130795396974886",
+        "name": "Nh \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "509934292487346",
+        "name": "NH\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "470374230023255",
+        "name": "NH\\ud22c\\uc790\\uc99d\\uad8c \\uc544\\ubbf8\\uace0\\ub5bc",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105935845123697",
+        "name": "NH \\ud22c\\uc790",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "101918562733952",
+        "name": "NH \\ud22c\\uc790",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "122117444329097",
+        "name": "NH \\ud22c\\uc790",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "173210862539297",
+        "name": "NH\\uc99d\\uad8c \\uc8fc\\uc2dd \\ud22c\\uc790 \\uae30\\ud68d",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "101400303056964",
+        "name": "NH\\uae08\\uc735 \\uc99d\\uad8c \\ud22c\\uc790 \\uc77c\\ubcf4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "166779569856822",
+        "name": "NH \\ud22c\\uc790\\uc99d\\uad8c.",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105714321364512",
+        "name": "NH \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "149444148244712",
+        "name": "NH \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "211215382085424",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c - \\ud22c\\uc790 \\uc77c\\uc9c0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "175532545653383",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c.",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "465533666648739",
+        "name": "Nh \\ud22c\\uc790",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "103681619360882",
+        "name": "NH\\u00c0 THU\\u1ed0C \\ud22c\\ud6c4\\uc60c2",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "104846788776302",
+        "name": "Nh\\ud22c\\uc790\\uc804\\ub7b5",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "167747203094052",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "134246249783017",
+        "name": "Nh \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1672830206265462",
+        "name": "NH Studioz",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "461895657190529",
+        "name": "NH Studioz",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "249295085540",
+        "name": "NHK WORLD-JAPAN",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "61652252465",
+        "name": "\\u0110\\u00f4ng Nhi",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "693252404115387",
+        "name": "NHL",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "204318116677554",
+        "name": "Nh\\u1eadt Kim Anh",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "353296194759922",
+        "name": "National Herald",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "98723213294",
+        "name": "Nabi Nh\\u00e3 Ph\\u01b0\\u01a1ng",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "314103605281408",
+        "name": "VisitNH - New Hampshire",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "108018461806",
+        "name": "H\\u1ed9i nh\\u1eefng ng\\u01b0\\u1eddi th\\u00edch \\u0111\\u1ecdc tin t\\u1ee9c 24h",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "52258162200",
+        "name": "NhacCuaTui.com",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "962161350324531",
+        "name": "NHL Shop",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "989105607627782",
+        "name": "Drama hot nh\\u1ea5t hi\\u1ec7n nay",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1380400301981284",
+        "name": "T\\u00ecnh ti\\u1ebft nhanh, l\\u00f4i cu\\u1ed1n",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "64205041409",
+        "name": "Nh\\u00e0 Thu\\u1ed1c FPT Long Ch\\u00e2u",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "242794945586914",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "159474320575252",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c\\u3001",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "189617200893548",
+        "name": "Nh \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102033439055933",
+        "name": "Nh \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "113231391884045",
+        "name": "Nh \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "267850993076473",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "103132029555879",
+        "name": "Nh\\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "211424408726382",
+        "name": "NH \\ud22c\\uc790\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "KB증권",
+    "captured": 4,
+    "advertisers": [
+      {
+        "page_id": "526540400777484",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "267432789788689",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "137075373000152",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "122789037477943",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "210543855468899",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "150308638155402",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "136622316207425",
+        "name": "KB-\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "151417181379509",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "158756447313755",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "570235400139104",
+        "name": "KB-\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "311134455741819",
+        "name": "KB \\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1339449669448506",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "136558476528642",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "338958023196681",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "130503940154301",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "153694451170213",
+        "name": "KB-\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "154961947690940",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "149425821578566",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "127610057890",
+        "name": "KBank Live",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "171137272905826",
+        "name": "KBank Live",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "171451702903532",
+        "name": "KBS WORLD",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "159802124093460",
+        "name": "KBC Bank & Verzekering",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "208017585894643",
+        "name": "KB\\uad6d\\ubbfc\\uce74\\ub4dc",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "793150950552073",
+        "name": "SPORTALM Kitzb\\u00fchel",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102248094824414",
+        "name": "Ko-Kow",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "206974921360525",
+        "name": "OKband-s",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "212102055468664",
+        "name": "despy.kboutique",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "522250264487836",
+        "name": "KBS \\ud55c\\uad6d\\ubc29\\uc1a1",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "682493208846487",
+        "name": "K.B Prasanna Kumar",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "462955103765673",
+        "name": "K-Beauty - Korea\\u0144ska Piel\\u0119gnacja",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "113013523907033",
+        "name": "KB \\uad6d\\ubbfc\\uc740\\ud589",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "16491196119",
+        "name": "KB Kombi",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "370294002932",
+        "name": "Kelley Blue Book",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "160473037151813",
+        "name": "KB\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "104637018901198",
+        "name": "KB-\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "토스증권",
+    "captured": 5,
+    "advertisers": [
+      {
+        "page_id": "224419297416380",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "103399848375983",
+        "name": "\\ud1a0\\uc2a4\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "112782410203280",
+        "name": "\\ud1a0\\ub3c4\\uc601\\uc5b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105952507831932",
+        "name": "\\ud1a0\\ub3c4\\uc601\\uc5b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "229302316936991",
+        "name": "\\ub3d9\\uad6d\\uc81c\\uc57d \\ud1a0\\ud0c8\\ud5ec\\uc2a4\\ucf00\\uc5b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "101671025578947",
+        "name": "Tomi Korean \\ud1a0\\ubbf8\\ud55c\\uad6d\\uc5b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105141172388714",
+        "name": "\\ud1a0\\ud53d \\uc2a4\\ud53c\\ucee4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "733047486827750",
+        "name": "\\ud1a0\\ube44 Tobby",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "493040194126214",
+        "name": "\\ud1a0\\ub9ac\\ub4e0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "106697642310701",
+        "name": "\\ud1a0\\uc18d\\ucd0c \\uc0bc\\uacc4\\ud0d5 - \\u571f\\u4fd7\\u6751 \\u8518\\u9dc4\\u6e6f",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "2239509386309350",
+        "name": "\\ud1a0\\ub3c4\\uc6d0 TODO ONE",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "109135385440328",
+        "name": "\\ud1a0\\uc774\\ubbf8\\uc18c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "110582008388278",
+        "name": "\\ud1a0\\uc2a4\\ud50c\\ub808\\uc774\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "367431630027237",
+        "name": "\\ud1a0\\uce58\\ub77c\\uc774\\ud2b8:\\uc778\\ud53c\\ub2c8\\ud2b8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "539470366570749",
+        "name": "\\ud1a0\\ud06c\\uc2a4\\ud14c\\uc774\\uc158",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "649680718824891",
+        "name": "\\uacbd\\uc120\\uc2dd\\uc5d0\\ub4c0 - \\ud1a0\\uc775",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1593719377570676",
+        "name": "\\ud1a0\\ub9c8\\uc2a4\\ubaa8\\uc5b4 Thomas more",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "460588320726762",
+        "name": "\\ud1a0\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1595386163852538",
+        "name": "\\ud1a0\\uc2a4\\ud50c\\ub808\\uc774\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "909720268891434",
+        "name": "Toss Career: \\ud1a0\\uc2a4 \\ucc44\\uc6a9",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "101924848845603",
+        "name": "\\ud1a0\\uc2a4\\uc778\\ucef4-Toss Income",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "448896701638205",
+        "name": "\\ud1a0\\uc2a4\\ubc45\\ud06c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "592884280574926",
+        "name": "\\ud1a0\\uc2a4\\uc560\\uc988",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "213258258843692",
+        "name": "\\ud1a0\\uc2a4\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "104477028140353",
+        "name": "TOAST Magazine - \\ud1a0\\uc2a4\\ud2b8 \\ub9e4\\uac70\\uc9c4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "427240023807376",
+        "name": "\\ud1a0\\uc2a4\\ud398\\uc774\\uba3c\\uce20",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "278075428712826",
+        "name": "\\ud1a0\\uc2a4\\uc778\\uc288\\uc5b4\\ub7f0\\uc2a4 sh\\uc0ac\\uc5c5\\ub2e8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1684206271903189",
+        "name": "\\ud1a0\\uc2a4\\ud2b8\\ucea0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1526004421020660",
+        "name": "\\ud1a0\\uc2a4\\ud2b8\\ucea0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1685706988346576",
+        "name": "\\ud1a0\\uc2a4\\ud2b8\\ud558\\uc6b0\\uc2a4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "카카오페이증권",
+    "captured": 6,
+    "advertisers": [
+      {
+        "page_id": "419154638236158",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "821968687923133",
+        "name": null,
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "225661887286596",
+        "name": "\\ubaa8\\ub450\\uc758\\ub9c8\\ube14 \\uce74\\uce74\\uc624",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1792899207659154",
+        "name": "\\uce74\\uce74\\uc624\\ud5ec\\uc2a4\\ucf00\\uc5b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1156367017778223",
+        "name": "\\uce74\\uce74\\uc624\\ubc45\\ud06c",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1720469254897476",
+        "name": "\\uce74\\uce74\\uc624\\uc6f9\\ud230",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1471642553050525",
+        "name": "\\uce74\\uce74\\uc624\\ud398\\uc774",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1752348528392819",
+        "name": "\\ub137\\ub9c8\\ube14 \\uce74\\uce74\\uc624\\ud1a1\\uac8c\\uc784",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "182005835513021",
+        "name": "\\uce74\\uce74\\uc624 T",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "506160269565619",
+        "name": "\\uce74\\uce74\\uc624\\uac8c\\uc784\\uc988",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "365179903937637",
+        "name": "\\uce74\\uce74\\uc624 \\uc774\\ubaa8\\ud2f0\\ucf58",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "601203790538273",
+        "name": "\\uce74\\uce74\\uc624 \\ubc30\\ud2c0\\uadf8\\ub77c\\uc6b4\\ub4dc",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "228824440898447",
+        "name": "\\uce74\\uce74\\uc624TV",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "131296127495002",
+        "name": "\\uce74\\uce74\\uc624\\uc784\\ud329\\ud2b8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "107165289072695",
+        "name": "\\uce74\\uce74\\uc624\\ud398\\uc774\\uc190\\ud574\\ubcf4\\ud5d8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "864874883365876",
+        "name": "\\uce74\\uce74\\uc624\\ud398\\uc774\\uc190\\ud574\\ubcf4\\ud5d8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "106009685593784",
+        "name": "\\uce74\\ubbf8\\ub178",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "111507855103598",
+        "name": "\\ubaa8\\ub450\\uc758\\ub9c8\\ube14 \\uce74\\uce74\\uc624",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "250291495022892",
+        "name": "\\uc624\\ub80c\\uc9c0 \\uce74\\uc6b4\\uc2ac\\ub7ec Orange Counselor",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1441316146177817",
+        "name": "\\uce74\\uce74\\uc624\\ud5ec\\uc2a4\\ucf00\\uc5b4",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "107852254417478",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "181925451928724",
+        "name": "\\uce74\\uce74\\uc624\\ubc45\\ud06c",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "475367692335624",
+        "name": "\\uce74\\uce74\\uc624\\uc6f9\\ud230",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "821545634855408",
+        "name": "\\uce74\\uc6b0\\uce20 \\ub9c8\\ucf13",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "110258772427368",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "469200399617491",
+        "name": "\\uce74\\ub808\\ud074\\ub9b0\\ud2b8 \\ud37c\\ub2c8\\ucc98(KAARE KLINT Furniture)",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "328681053670788",
+        "name": "\\uce74\\ud1b5\\ub839 \\uc778\\uc99d \\uc911\\uace0\\ucc28",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "2029956683943935",
+        "name": "\\uce74\\uce74\\uc624",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "817835181724963",
+        "name": "\\uce74\\uce74\\uc624",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1088019637919272",
+        "name": "\\ubaa8\\ub450\\uc758\\ub9c8\\ube14 \\uce74\\uce74\\uc624",
+        "verification": "BLUE_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "100250804941641",
+        "name": "\\uce74\\uce74\\uc624\\ud398\\uc774\\uc190\\ud574\\ubcf4\\ud5d8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  },
+  {
+    "query": "키움증권",
+    "captured": 5,
+    "advertisers": [
+      {
+        "page_id": "131281780274622",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "596372186897393",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "246769875196700",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "137075373000152",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "1072401222627655",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "422675774787513",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "423436047527293",
+        "name": null,
+        "verification": null,
+        "followers": null
+      },
+      {
+        "page_id": "386175267911024",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "101672339188480",
+        "name": "\\ub370\\ubaac \\uc18c\\uc11c\\ub9ac\\uc2a4 \\ud0a4\\uc6b0\\uae30",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "948268138351305",
+        "name": "\\ud0a4\\ud590",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "383677652135992",
+        "name": "\\ud0a4\\ud06c\\ub294 \\ube44\\ubc00\\ub178\\ud2b8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "803736459479226",
+        "name": "\\uce89\\uace8 \\ud0a4\\uc988 \\ucf54\\ub9ac\\uc544 (Kangol Kids Korea)",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102468161329448",
+        "name": "\\uc815\\ub839\\ud0b9 \\ud0a4\\uc6b0\\uae30",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "214204608433336",
+        "name": "\\uc2a4\\ud30c\\uc624 \\ud0a4\\uc988",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "430289390472091",
+        "name": "\\ud0a4\\uc988 \\uac74\\uac15 \\uafc0\\ud301",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "104261938610409",
+        "name": "Kirsh.\\ud0a4\\ub974\\uc2dc.",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "597534363433535",
+        "name": "\\uc2ac\\ub808\\uc774\\uc5b4 \\ud0a4\\uc6b0\\uae30",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "779158831955312",
+        "name": "\\uac13\\uae68\\ube44 \\ud0a4\\uc6b0\\uae30",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "982354864969852",
+        "name": "\\uba54\\uc774\\ud50c \\ud0a4\\uc6b0\\uae30",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "116305686588726",
+        "name": "\\ud0a4\\uc465\\uc465\\uc5f0\\uad6c\\uc18c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "107917410786008",
+        "name": "\\ud0a4\\ub514\\ud0a4\\ub514 - \\ucde8\\ud5a5 \\uc721\\uc544 \\ud50c\\ub7ab\\ud3fc",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "275837170920753",
+        "name": "\\ub0b4\\uc154\\ub110\\uc9c0\\uc624\\uadf8\\ub798\\ud53d \\uc5b4\\ud328\\ub7f4 \\ud0a4\\uc988",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "285516745292714",
+        "name": "\\ud0a4\\uc6c0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "948777811659573",
+        "name": "\\ud0a4\\uc6c0",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "121031614432123",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "557808421358032",
+        "name": "\\ud0a4\\uc6c0\\uc5d0\\uc14b\\ud50c\\ub798\\ub108",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "173486206047922",
+        "name": "\\ud0a4\\uc6c0\\ud788\\uc5b4\\ub85c\\uc988 \\ud504\\ub85c\\uc57c\\uad6c\\ub2e8",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "370269383130152",
+        "name": "\\ud0a4\\uc6c0 \\ud788\\uc5b4\\ub85c\\uc988 Fanpage",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "638487406234253",
+        "name": "\\ud0a4\\uc6c0\\uc790\\uc0b0\\uad00\\ub9ac",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1846716662321346",
+        "name": "\\ud0a4\\uc6c0\\ud788\\uc5b4\\ub85c\\uc988\\uc640 \\uc57c\\uad6c\\uc774\\uc57c\\uae30",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "111606791023280",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1874574426197691",
+        "name": "\\ud0a4\\uc6c0\\ud22c\\uc790\\uc790\\uc0b0\\uc6b4\\uc6a9",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "490833387758083",
+        "name": "\\ud0a4\\uc6c0\\ub85c\\ub610",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "476331916114613",
+        "name": "\\ud0a4\\uc6c0\\uc2a4\\ud3ec\\uce20\\ud074\\ub7fd",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "562254703887414",
+        "name": "\\ud0a4\\uc6c0\\uc800\\ucd95\\uc740\\ud589",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "135938053717399",
+        "name": null,
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "106669325811878",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "103616332319558",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "159139970619702",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "427151034393180",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "206629395858211",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "170436886151593",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "108690274317005",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "100528108514801",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c \\uc870\\uba85\\uc810",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "102138974981903",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c \\uc6b0\\ub9ac\\ud22c\\uc790\\uc810",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "839719522897871",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c\\uc870\\uba85\\uc810",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "107871268084072",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "147155638632455",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "345692732580338",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "105581851688350",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "1298149483665942",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8c",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      },
+      {
+        "page_id": "107272531861863",
+        "name": "\\ud0a4\\uc6c0\\uc99d\\uad8cKiwoom Securities",
+        "verification": "NOT_VERIFIED",
+        "followers": null
+      }
+    ],
+    "best_match": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "key": "mirae",
+    "name_kr": "미래에셋증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "samsung",
+    "name_kr": "삼성증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "kis",
+    "name_kr": "한국투자증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "nh",
+    "name_kr": "NH투자증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "nh_namu",
+    "name_kr": "NH나무증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "kb",
+    "name_kr": "KB증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "toss",
+    "name_kr": "토스증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "kakaopay",
+    "name_kr": "카카오페이증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  },
+  {
+    "key": "kiwoom",
+    "name_kr": "키움증권",
+    "error": "locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[placeholder*=\"키워드\"]').first() to be visible\u001b[22m\n"
+  }
+]

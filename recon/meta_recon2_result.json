@@ -1,0 +1,37 @@
+[
+  {
+    "key": "mirae",
+    "name_kr": "미래에셋증권",
+    "candidates": []
+  },
+  {
+    "key": "samsung",
+    "name_kr": "삼성증권",
+    "candidates": []
+  },
+  {
+    "key": "kis",
+    "name_kr": "한국투자증권",
+    "candidates": []
+  },
+  {
+    "key": "nh",
+    "name_kr": "NH투자증권",
+    "candidates": []
+  },
+  {
+    "key": "kb",
+    "name_kr": "KB증권",
+    "candidates": []
+  },
+  {
+    "key": "toss",
+    "name_kr": "토스증권",
+    "candidates": []
+  },
+  {
+    "key": "kakaopay",
+    "name_kr": "카카오페이증권",
+    "candidates": []
+  }
+]

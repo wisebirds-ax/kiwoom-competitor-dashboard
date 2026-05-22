@@ -1,0 +1,245 @@
+[
+  {
+    "key": "mirae",
+    "name": "미래에셋증권",
+    "aliases": [
+      "미래에셋",
+      "Mirae Asset Securities"
+    ],
+    "candidates": [
+      {
+        "name": "미래에셋증권 주식회사",
+        "advertiser_id": "AR11442509105290280961",
+        "region": "KR",
+        "ads_min": 900,
+        "ads_max": 1000,
+        "matched_via": "미래에셋증권"
+      },
+      {
+        "name": "미래에셋증권",
+        "advertiser_id": "AR08115540937167339521",
+        "region": "KR",
+        "ads_min": 400,
+        "ads_max": 500,
+        "matched_via": "미래에셋증권"
+      },
+      {
+        "name": "미래에셋증권 주식회사",
+        "advertiser_id": "AR12297275337418473473",
+        "region": "KR",
+        "ads_min": 58,
+        "ads_max": 58,
+        "matched_via": "미래에셋증권"
+      },
+      {
+        "name": "미래에셋증권",
+        "advertiser_id": "AR00854558999956160513",
+        "region": "KR",
+        "ads_min": 43,
+        "ads_max": 43,
+        "matched_via": "미래에셋증권"
+      },
+      {
+        "name": "미래에셋증권 주식회사",
+        "advertiser_id": "AR04197632599654400001",
+        "region": "KR",
+        "ads_min": 40,
+        "ads_max": 40,
+        "matched_via": "미래에셋증권"
+      },
+      {
+        "name": "미래에셋증권",
+        "advertiser_id": "AR17453773524937211905",
+        "region": "KR",
+        "ads_min": 18,
+        "ads_max": 18,
+        "matched_via": "미래에셋증권"
+      }
+    ],
+    "total_min": 1459,
+    "total_max": 1659
+  },
+  {
+    "key": "samsung",
+    "name": "삼성증권",
+    "aliases": [
+      "Samsung Securities"
+    ],
+    "candidates": [
+      {
+        "name": "삼성증권주식회사",
+        "advertiser_id": "AR11621934095679881217",
+        "region": "KR",
+        "ads_min": 1000,
+        "ads_max": 2000,
+        "matched_via": "삼성증권"
+      },
+      {
+        "name": "삼성증권주식회사",
+        "advertiser_id": "AR14694355099950514177",
+        "region": "KR",
+        "ads_min": 34,
+        "ads_max": 34,
+        "matched_via": "삼성증권"
+      },
+      {
+        "name": "삼성증권",
+        "advertiser_id": "AR09223884254654496769",
+        "region": "KR",
+        "ads_min": 13,
+        "ads_max": 13,
+        "matched_via": "삼성증권"
+      }
+    ],
+    "total_min": 1047,
+    "total_max": 2047
+  },
+  {
+    "key": "kis",
+    "name": "한국투자증권",
+    "aliases": [
+      "한국투자",
+      "Korea Investment"
+    ],
+    "candidates": [
+      {
+        "name": "한국투자증권",
+        "advertiser_id": "AR14106116241651400705",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "한국투자증권"
+      },
+      {
+        "name": "한국투자증권",
+        "advertiser_id": "AR07874685931486183425",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "한국투자증권"
+      },
+      {
+        "name": "한국투자증권(주)",
+        "advertiser_id": "AR01997804501590867969",
+        "region": "KR",
+        "ads_min": 66,
+        "ads_max": 66,
+        "matched_via": "한국투자증권"
+      },
+      {
+        "name": "한국투자증권(주)",
+        "advertiser_id": "AR09553476196658839553",
+        "region": "KR",
+        "ads_min": 10,
+        "ads_max": 10,
+        "matched_via": "한국투자증권"
+      },
+      {
+        "name": "한국투자증권 (주)",
+        "advertiser_id": "AR14881463374515798017",
+        "region": "KR",
+        "ads_min": 10,
+        "ads_max": 10,
+        "matched_via": "한국투자증권"
+      }
+    ],
+    "total_min": 286,
+    "total_max": 486
+  },
+  {
+    "key": "nh",
+    "name": "NH투자증권",
+    "aliases": [
+      "NH투자",
+      "엔에이치투자증권",
+      "엔에이치투자",
+      "농협투자증권",
+      "나무증권",
+      "NH나무증권"
+    ],
+    "candidates": [],
+    "total_min": 0,
+    "total_max": 0
+  },
+  {
+    "key": "kb",
+    "name": "KB증권",
+    "aliases": [
+      "KB Securities",
+      "KB세큐리티즈",
+      "케이비증권",
+      "주식회사 KB증권",
+      "(주)KB증권"
+    ],
+    "candidates": [],
+    "total_min": 0,
+    "total_max": 0
+  },
+  {
+    "key": "toss",
+    "name": "토스증권",
+    "aliases": [
+      "Toss Securities",
+      "토스"
+    ],
+    "candidates": [
+      {
+        "name": "토스증권 주식회사",
+        "advertiser_id": "AR06938601451455250433",
+        "region": "KR",
+        "ads_min": 46,
+        "ads_max": 46,
+        "matched_via": "토스증권"
+      },
+      {
+        "name": "토스증권(주)",
+        "advertiser_id": "AR10317109862785351681",
+        "region": "KR",
+        "ads_min": 2,
+        "ads_max": 2,
+        "matched_via": "토스증권"
+      }
+    ],
+    "total_min": 48,
+    "total_max": 48
+  },
+  {
+    "key": "kakaopay",
+    "name": "카카오페이증권",
+    "aliases": [
+      "카카오페이",
+      "KakaoPay Securities",
+      "카카오페이 증권"
+    ],
+    "candidates": [],
+    "total_min": 0,
+    "total_max": 0
+  },
+  {
+    "key": "kiwoom",
+    "name": "키움증권",
+    "aliases": [
+      "Kiwoom"
+    ],
+    "candidates": [
+      {
+        "name": "키움증권(주)",
+        "advertiser_id": "AR16987959307796480001",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "키움증권"
+      },
+      {
+        "name": "키움증권(주)",
+        "advertiser_id": "AR03097745179419869185",
+        "region": "KR",
+        "ads_min": 31,
+        "ads_max": 31,
+        "matched_via": "키움증권"
+      }
+    ],
+    "total_min": 131,
+    "total_max": 231
+  }
+]

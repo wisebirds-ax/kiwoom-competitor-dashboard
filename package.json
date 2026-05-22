@@ -1,0 +1,18 @@
+{
+  "name": "kiwoom-competitor-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "collect:google": "node packages/collectors/src/google.mjs",
+    "collect:meta": "node packages/collectors/src/meta.mjs",
+    "collect:all": "node packages/collectors/src/run-all.mjs",
+    "export:json": "node packages/collectors/src/export-json.mjs",
+    "diff": "node packages/diff/src/run.mjs",
+    "db:init": "node packages/db/src/init.mjs",
+    "dashboard:dev": "npm --workspace=@kcd/dashboard run dev"
+  }
+}

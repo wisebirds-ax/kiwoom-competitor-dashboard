@@ -1,0 +1,24 @@
+# 설치된 패키지 (용량이 커서 GitHub에 올리지 않음)
+node_modules/
+
+# Next.js 빌드 결과물
+packages/dashboard/.next/
+packages/dashboard/out/
+
+# SQLite 데이터베이스 (JSON 파일로 대체)
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+
+# 비밀 정보가 담긴 환경변수 파일
+.env
+.env.local
+.env.*.local
+
+# 로그 파일
+logs/
+*.log
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db

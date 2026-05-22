@@ -1,0 +1,14 @@
+{
+  "name": "@kcd/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.mjs",
+  "exports": {
+    ".": "./src/index.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.9.0",
+    "playwright": "^1.59.1"
+  }
+}

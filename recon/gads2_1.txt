@@ -1,0 +1,4 @@
+URL: https://adstransparency.google.com/anji/_/rpc/SearchService/SearchSuggestions?authuser=
+LEN: 380
+---
+{"1":[{"1":{"1":"\uc0bc\uc131\uc99d\uad8c","2":"AR09223884254654496769","3":"KR","4":{"2":{"1":"13","2":"13"}}}},{"1":{"1":"\uc0bc\uc131\uc99d\uad8c\uc8fc\uc2dd\ud68c\uc0ac","2":"AR11621934095679881217","3":"KR","4":{"2":{"1":"1000","2":"2000"}}}},{"1":{"1":"\uc0bc\uc131\uc99d\uad8c\uc8fc\uc2dd\ud68c\uc0ac","2":"AR14694355099950514177","3":"KR","4":{"2":{"1":"34","2":"34"}}}}]}

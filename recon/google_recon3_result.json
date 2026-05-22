@@ -1,0 +1,411 @@
+[
+  {
+    "name": "NH투자증권",
+    "queries": [
+      "NH투자증권",
+      "NH투자",
+      "나무증권",
+      "NH나무증권",
+      "NH NAMUH",
+      "NH",
+      "농협투자",
+      "농협증권",
+      "엔에이치투자",
+      "엔에이치증권",
+      "nhqv"
+    ],
+    "candidates": [
+      {
+        "name": "엔에이치투자증권(주)",
+        "advertiser_id": "AR04004909127795998721",
+        "region": "KR",
+        "ads_min": 300,
+        "ads_max": 400,
+        "matched_via": "엔에이치투자"
+      },
+      {
+        "name": "엔에이치투자증권",
+        "advertiser_id": "AR03548131496076247041",
+        "region": "KR",
+        "ads_min": 31,
+        "ads_max": 31,
+        "matched_via": "엔에이치투자"
+      },
+      {
+        "name": "엔에이치투자증권(주)",
+        "advertiser_id": "AR16223565793235828737",
+        "region": "KR",
+        "ads_min": 17,
+        "ads_max": 17,
+        "matched_via": "엔에이치투자"
+      },
+      {
+        "name": "NH선물",
+        "advertiser_id": "AR09219021647300788225",
+        "region": "KR",
+        "ads_min": 11,
+        "ads_max": 11,
+        "matched_via": "NH투자증권"
+      },
+      {
+        "name": "NHN Edu",
+        "advertiser_id": "AR16411996067324755969",
+        "region": "KR",
+        "ads_min": 8,
+        "ads_max": 8,
+        "matched_via": "NH투자증권"
+      },
+      {
+        "name": "엔에이치투자증권주식회사",
+        "advertiser_id": "AR16050678730913218561",
+        "region": "KR",
+        "ads_min": 3,
+        "ads_max": 3,
+        "matched_via": "엔에이치투자"
+      },
+      {
+        "name": "NHN",
+        "advertiser_id": "AR17612147145442328577",
+        "region": "KR",
+        "ads_min": 1,
+        "ads_max": 1,
+        "matched_via": "NH투자증권"
+      }
+    ]
+  },
+  {
+    "name": "KB증권",
+    "queries": [
+      "KB증권",
+      "KB Securities",
+      "케이비증권",
+      "KB세큐리티즈",
+      "kbsec",
+      "KB금융",
+      "주식회사 케이비증권",
+      "(주)KB증권",
+      "KBM Plus",
+      "M-able"
+    ],
+    "candidates": [
+      {
+        "name": "KB손해보험",
+        "advertiser_id": "AR02181186118932758529",
+        "region": "KR",
+        "ads_min": 800,
+        "ads_max": 900,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "(주) KB국민카드",
+        "advertiser_id": "AR01736086872658018305",
+        "region": "KR",
+        "ads_min": 500,
+        "ads_max": 600,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "k",
+        "advertiser_id": "AR07582232167963426817",
+        "region": "KR",
+        "ads_min": 500,
+        "ads_max": 600,
+        "matched_via": "(주)KB증권"
+      },
+      {
+        "name": "주식회사 뮨",
+        "advertiser_id": "AR14191124484936695809",
+        "region": "KR",
+        "ads_min": 400,
+        "ads_max": 500,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "KB자산운용",
+        "advertiser_id": "AR11220893714849202177",
+        "region": "KR",
+        "ads_min": 200,
+        "ads_max": 300,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "주식회사 통",
+        "advertiser_id": "AR13420579838473797633",
+        "region": "KR",
+        "ads_min": 200,
+        "ads_max": 300,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "케이비증권 주식회사",
+        "advertiser_id": "AR07030169028924538881",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "케이비증권"
+      },
+      {
+        "name": "아침주식회사",
+        "advertiser_id": "AR10727188864851509249",
+        "region": "KR",
+        "ads_min": 94,
+        "ads_max": 94,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "(주) KB국민카드",
+        "advertiser_id": "AR15887140523903811585",
+        "region": "KR",
+        "ads_min": 86,
+        "ads_max": 86,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "수현주식회사",
+        "advertiser_id": "AR05357716563522748417",
+        "region": "KR",
+        "ads_min": 82,
+        "ads_max": 82,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "(주)KB국민카드",
+        "advertiser_id": "AR06568171311133097985",
+        "region": "KR",
+        "ads_min": 80,
+        "ads_max": 80,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "(주) KB국민카드",
+        "advertiser_id": "AR15543257653747646465",
+        "region": "KR",
+        "ads_min": 55,
+        "ads_max": 55,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "주식회사더진",
+        "advertiser_id": "AR16827132367612149761",
+        "region": "KR",
+        "ads_min": 46,
+        "ads_max": 46,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "주식회사네기",
+        "advertiser_id": "AR05161828774509019137",
+        "region": "KR",
+        "ads_min": 34,
+        "ads_max": 34,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "주식회사필립",
+        "advertiser_id": "AR17038818867406700545",
+        "region": "KR",
+        "ads_min": 23,
+        "ads_max": 23,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "주식회사무학",
+        "advertiser_id": "AR15311264849225318401",
+        "region": "KR",
+        "ads_min": 22,
+        "ads_max": 22,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "열",
+        "advertiser_id": "AR17191396103128350721",
+        "region": "KR",
+        "ads_min": 17,
+        "ads_max": 17,
+        "matched_via": "(주)KB증권"
+      },
+      {
+        "name": "KB회원권거래소",
+        "advertiser_id": "AR02904769137714659329",
+        "region": "KR",
+        "ads_min": 5,
+        "ads_max": 5,
+        "matched_via": "KB증권"
+      },
+      {
+        "name": "정",
+        "advertiser_id": "AR08244515162933952513",
+        "region": "KR",
+        "ads_min": 3,
+        "ads_max": 3,
+        "matched_via": "(주)KB증권"
+      },
+      {
+        "name": "주식회사위",
+        "advertiser_id": "AR04645536184695521281",
+        "region": "KR",
+        "ads_min": 2,
+        "ads_max": 2,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "주식회사다",
+        "advertiser_id": "AR16355458303251185665",
+        "region": "KR",
+        "ads_min": 2,
+        "ads_max": 2,
+        "matched_via": "주식회사 케이비증권"
+      },
+      {
+        "name": "곱",
+        "advertiser_id": "AR12026043376672440321",
+        "region": "KR",
+        "ads_min": 2,
+        "ads_max": 2,
+        "matched_via": "(주)KB증권"
+      },
+      {
+        "name": "콘",
+        "advertiser_id": "AR07784020915624345601",
+        "region": "KR",
+        "ads_min": 1,
+        "ads_max": 1,
+        "matched_via": "(주)KB증권"
+      },
+      {
+        "name": "콸",
+        "advertiser_id": "AR13022065912025448449",
+        "region": "KR",
+        "ads_min": 1,
+        "ads_max": 1,
+        "matched_via": "(주)KB증권"
+      }
+    ]
+  },
+  {
+    "name": "카카오페이증권",
+    "queries": [
+      "카카오페이증권",
+      "카카오페이 증권",
+      "카카오페이",
+      "카페이증권",
+      "KakaoPay Securities",
+      "카카오 페이 증권",
+      "kakaopaysec"
+    ],
+    "candidates": [
+      {
+        "name": "주식회사 카카오페이",
+        "advertiser_id": "AR02041575131779694593",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "카카오페이 증권"
+      },
+      {
+        "name": "카카오게임즈",
+        "advertiser_id": "AR06205126495925436417",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "(주)카카오헬스케어",
+        "advertiser_id": "AR03138499024579985409",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "주식회사 카카오뱅크",
+        "advertiser_id": "AR13920619309966557185",
+        "region": "KR",
+        "ads_min": 100,
+        "ads_max": 200,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "카카오엔터테인먼트",
+        "advertiser_id": "AR05335446153070641153",
+        "region": "KR",
+        "ads_min": 62,
+        "ads_max": 62,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "주식회사 카카오페이손해보험",
+        "advertiser_id": "AR00161397363380846593",
+        "region": "KR",
+        "ads_min": 57,
+        "ads_max": 57,
+        "matched_via": "카카오페이 증권"
+      },
+      {
+        "name": "주식회사 카카오페이",
+        "advertiser_id": "AR11498177945940262913",
+        "region": "KR",
+        "ads_min": 29,
+        "ads_max": 29,
+        "matched_via": "카카오페이 증권"
+      },
+      {
+        "name": "카카오엔터테인먼트",
+        "advertiser_id": "AR13136917117091708929",
+        "region": "KR",
+        "ads_min": 26,
+        "ads_max": 26,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "카카오브이엑스",
+        "advertiser_id": "AR02992779631859335169",
+        "region": "KR",
+        "ads_min": 20,
+        "ads_max": 20,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "주식회사 카카오페이",
+        "advertiser_id": "AR07019918591256428545",
+        "region": "KR",
+        "ads_min": 6,
+        "ads_max": 6,
+        "matched_via": "카카오페이 증권"
+      },
+      {
+        "name": "카카오엔터테인먼트",
+        "advertiser_id": "AR13641397644898074625",
+        "region": "KR",
+        "ads_min": 5,
+        "ads_max": 5,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "카카오스타일",
+        "advertiser_id": "AR17960920222412046337",
+        "region": "KR",
+        "ads_min": 4,
+        "ads_max": 4,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "카카오",
+        "advertiser_id": "AR07633746761625894913",
+        "region": "KR",
+        "ads_min": 3,
+        "ads_max": 3,
+        "matched_via": "카카오 페이 증권"
+      },
+      {
+        "name": "카카오엔터테인먼트",
+        "advertiser_id": "AR05712565232509911041",
+        "region": "KR",
+        "ads_min": 2,
+        "ads_max": 2,
+        "matched_via": "카카오 페이 증권"
+      }
+    ]
+  }
+]

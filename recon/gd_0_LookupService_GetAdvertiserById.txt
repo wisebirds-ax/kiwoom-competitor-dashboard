@@ -1,0 +1,4 @@
+URL: https://adstransparency.google.com/anji/_/rpc/LookupService/GetAdvertiserById?authuser=
+LEN: 244
+---
+{"1":{"1":"AR06938601451455250433","2":"\ud1a0\uc2a4\uc99d\uad8c \uc8fc\uc2dd\ud68c\uc0ac","3":"KR","9":{"1":"\ud1a0\uc2a4\uc99d\uad8c \uc8fc\uc2dd\ud68c\uc0ac","2":"\ud1a0\uc2a4\uc99d\uad8c \uc8fc\uc2dd\ud68c\uc0ac","4":1},"11":"KR","15":[1]}}
