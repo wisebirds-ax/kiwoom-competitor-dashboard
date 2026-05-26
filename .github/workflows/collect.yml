@@ -10,6 +10,8 @@ jobs:
   collect-and-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    permissions:
+      contents: write
 
     steps:
       # 1. 코드 가져오기
@@ -47,18 +49,25 @@ jobs:
         run: npm run collect:google
         timeout-minutes: 70
 
-      # 7. 새 광고 썸네일 수집
-      - name: 썸네일 수집 (신규 광고)
+      # 7. Google 새 광고 썸네일 수집
+      - name: Google 썸네일 수집 (신규 광고)
         run: node packages/collectors/src/enrich-google-v2.mjs --limit=300
         timeout-minutes: 30
         env:
           ENRICH_CONCURRENCY: 4
 
-      # 8. 대시보드용 JSON 내보내기
+      # 8. Meta 썸네일 다운로드 (CDN URL 만료 방지)
+      - name: Meta 썸네일 다운로드
+        run: node packages/collectors/src/enrich-meta-thumbs.mjs
+        timeout-minutes: 10
+        env:
+          ENRICH_CONCURRENCY: 6
+
+      # 9. 대시보드용 JSON 내보내기
       - name: JSON 내보내기
         run: npm run export:json
 
-      # 9. 변경된 파일 GitHub에 저장
+      # 10. 변경된 파일 GitHub에 저장
       - name: 데이터 커밋 & 푸시
         run: |
           git config user.name "자동수집봇"
