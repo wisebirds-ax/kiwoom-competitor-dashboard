@@ -20,7 +20,7 @@ CREATE TABLE IF NOT EXISTS advertiser (
   handle         TEXT,                        -- Meta @handle (null for Google)
   is_primary     INTEGER NOT NULL DEFAULT 0,  -- the canonical account per competitor+channel
   metadata       TEXT,                        -- JSON blob (followers, verification, etc.)
-  first_seen_at  TEXT NOT NULL DEFAULT NOW(),
+  first_seen_at  TEXT NOT NULL DEFAULT (datetime('now')),
   last_seen_at   TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_advertiser_competitor ON advertiser(competitor_key, channel);
