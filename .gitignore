@@ -21,4 +21,10 @@ logs/
 
 # OS 자동 생성 파일
 .DS_Store
-Thumbs.db
+
+# 진단/임시 스크립트
+diag-*.mjs
+check_*.mjs
+KakaoTalk_*.png
+
+.vercel

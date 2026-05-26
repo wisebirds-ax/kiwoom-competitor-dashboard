@@ -13,6 +13,7 @@
     "export:json": "node packages/collectors/src/export-json.mjs",
     "diff": "node packages/diff/src/run.mjs",
     "db:init": "node packages/db/src/init.mjs",
-    "dashboard:dev": "npm --workspace=@kcd/dashboard run dev"
+    "dashboard:dev": "npm --workspace=@kcd/dashboard run dev",
+    "enrich:google:v2": "node packages/collectors/src/enrich-google-v2.mjs"
   }
 }

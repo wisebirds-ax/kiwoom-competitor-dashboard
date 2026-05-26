@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 }
 body {
-  background: #f7f8fa;
-  color: #111827;
+  background: #0b1220;
+  color: #e2e8f0;
   font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Apple SD Gothic Neo',
     'Noto Sans KR', sans-serif;
 }

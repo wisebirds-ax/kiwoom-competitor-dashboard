@@ -1,0 +1,79 @@
+name: 경쟁사 광고 자동 수집
+
+on:
+  schedule:
+    - cron: '0 1 * * 1-5'   # 평일 오전 10:00 KST (= UTC 01:00)
+    - cron: '0 6 * * 1-5'   # 평일 오후 15:00 KST (= UTC 06:00)
+  workflow_dispatch:          # 수동 실행 버튼 (테스트용)
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      # 1. 코드 가져오기
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Node.js 설치
+      - name: Node.js 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # 3. 패키지 설치
+      - name: 패키지 설치
+        run: npm ci
+
+      # 4. Playwright 브라우저 설치 (광고 수집에 필요)
+      - name: Playwright 브라우저 설치
+        run: npx playwright install chromium --with-deps
+
+      # 5. 이전 DB 복원 (이전 수집 기록 이어받기)
+      - name: 이전 DB 복원
+        uses: actions/cache@v4
+        with:
+          path: data/dashboard.sqlite
+          key: sqlite-db-${{ github.run_id }}
+          restore-keys: |
+            sqlite-db-
+
+      # 6. Google 광고 수집
+      - name: Google 광고 수집
+        run: npm run collect:google
+        timeout-minutes: 70
+
+      # 7. 새 광고 썸네일 수집
+      - name: 썸네일 수집 (신규 광고)
+        run: node packages/collectors/src/enrich-google-v2.mjs --limit=300
+        timeout-minutes: 30
+        env:
+          ENRICH_CONCURRENCY: 4
+
+      # 8. 대시보드용 JSON 내보내기
+      - name: JSON 내보내기
+        run: npm run export:json
+
+      # 9. 변경된 파일 GitHub에 저장
+      - name: 데이터 커밋 & 푸시
+        run: |
+          git config user.name "자동수집봇"
+          git config user.email "bot@github.com"
+          git add packages/dashboard/src/data/
+          git add packages/dashboard/public/thumbs/ || true
+          git diff --staged --quiet && echo "변경 없음" && exit 0
+          git commit -m "자동 업데이트 $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M') KST"
+          git push
+
+      # 10. Vercel 배포
+      - name: Vercel 배포
+        run: |
+          cd packages/dashboard
+          npx vercel --prod --token=${{ secrets.VERCEL_TOKEN }} --yes
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
