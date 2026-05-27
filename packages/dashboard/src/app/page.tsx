@@ -4,8 +4,6 @@ import { AdCard } from '../components/AdCard';
 
 export const dynamic = 'force-dynamic';
 
-export const dynamic = 'force-dynamic';
-
 function KpiCard({ label, value, sub, color }: { label: string; value: string | number; sub?: string; color: string }) {
   return (
     <div className="rounded-xl border border-slate-700/50 bg-slate-800/60 px-5 py-4">
