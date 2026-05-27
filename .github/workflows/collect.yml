@@ -78,11 +78,13 @@ jobs:
           git commit -m "자동 업데이트 $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M') KST"
           git push
 
-      # 10. Vercel 배포
+      # 10. Vercel 배포 (GitHub Actions에서 직접 빌드 후 업로드)
       - name: Vercel 배포
         run: |
           cd packages/dashboard
-          npx vercel --prod --token=${{ secrets.VERCEL_TOKEN }} --yes
+          npx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} --yes
+          npx vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }} --yes
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        timeout-minutes: 15
