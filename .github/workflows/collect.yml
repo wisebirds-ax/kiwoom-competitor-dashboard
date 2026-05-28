@@ -56,12 +56,10 @@ jobs:
         env:
           ENRICH_CONCURRENCY: 4
 
-      # 8. Meta 광고 수집
+      # 8. Meta 광고 수집 (Playwright 스크래핑)
       - name: Meta 광고 수집
         run: npm run collect:meta
-        timeout-minutes: 15
-        env:
-          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+        timeout-minutes: 20
 
       # 9. Meta 썸네일 다운로드 (CDN URL 만료 방지)
       - name: Meta 썸네일 다운로드

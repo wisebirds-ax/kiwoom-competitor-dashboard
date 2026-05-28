@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "collect:google": "node packages/collectors/src/google.mjs",
-    "collect:meta": "node packages/collectors/src/meta.mjs",
+    "collect:meta": "node packages/collectors/src/meta-scrape.mjs",
     "collect:all": "node packages/collectors/src/run-all.mjs",
     "export:json": "node packages/collectors/src/export-json.mjs",
     "diff": "node packages/diff/src/run.mjs",
