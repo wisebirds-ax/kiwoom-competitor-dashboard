@@ -56,18 +56,25 @@ jobs:
         env:
           ENRICH_CONCURRENCY: 4
 
-      # 8. Meta 썸네일 다운로드 (CDN URL 만료 방지)
+      # 8. Meta 광고 수집
+      - name: Meta 광고 수집
+        run: npm run collect:meta
+        timeout-minutes: 15
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+
+      # 9. Meta 썸네일 다운로드 (CDN URL 만료 방지)
       - name: Meta 썸네일 다운로드
         run: node packages/collectors/src/enrich-meta-thumbs.mjs
         timeout-minutes: 10
         env:
           ENRICH_CONCURRENCY: 6
 
-      # 9. 대시보드용 JSON 내보내기
+      # 10. 대시보드용 JSON 내보내기
       - name: JSON 내보내기
         run: npm run export:json
 
-      # 10. 변경된 파일 GitHub에 저장
+      # 11. 변경된 파일 GitHub에 저장
       - name: 데이터 커밋 & 푸시
         run: |
           git config user.name "자동수집봇"
@@ -78,4 +85,4 @@ jobs:
           git commit -m "자동 업데이트 $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M') KST"
           git push
 
-      # 10. Vercel 배포는 GitHub push 감지 시 Vercel이 자동 배포
+      # 12. Vercel 배포는 GitHub push 감지 시 Vercel이 자동 배포
