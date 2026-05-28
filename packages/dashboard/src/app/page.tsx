@@ -33,7 +33,6 @@ export default function Home() {
         <div className="mt-1 flex flex-wrap items-center gap-3 text-xs text-slate-400">
           {googleSnap && <span>Google 최근 수집: {new Date(googleSnap.run_at).toLocaleString('ko-KR')}</span>}
           {metaSnap && <span>· Meta 최근 수집: {new Date(metaSnap.run_at).toLocaleString('ko-KR')}</span>}
-          <span>· 매일 10:00 / 15:00 KST 갱신</span>
         </div>
       </header>
 
