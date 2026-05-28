@@ -57,7 +57,6 @@ export default function Home() {
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">종료 24h</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">VIDEO</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">IMAGE</th>
-                <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">TEXT</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-slate-700/40">
@@ -82,7 +81,6 @@ export default function Home() {
                   </td>
                   <td className="px-3 py-3 text-right text-slate-300">{k.format_video || <span className="text-slate-600">-</span>}</td>
                   <td className="px-3 py-3 text-right text-slate-300">{k.format_image || <span className="text-slate-600">-</span>}</td>
-                  <td className="px-3 py-3 text-right text-slate-300">{k.format_text || <span className="text-slate-600">-</span>}</td>
                 </tr>
               ))}
             </tbody>

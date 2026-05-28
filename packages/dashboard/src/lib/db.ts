@@ -83,6 +83,7 @@ export function listAds(opts: {
   let result = allAds;
   if (competitor) result = result.filter((a) => a.competitor_key === competitor);
   if (channel) result = result.filter((a) => a.channel === channel);
+  result = result.filter((a) => a.format !== 'text');
   if (status !== 'all') result = result.filter((a) => a.status === status);
   if (newSinceHours) {
     const since = new Date(Date.now() - newSinceHours * 60 * 60 * 1000).toISOString();
