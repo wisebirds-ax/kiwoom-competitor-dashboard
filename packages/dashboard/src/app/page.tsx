@@ -55,11 +55,9 @@ export default function Home() {
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">활성</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">신규 24h</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">종료 24h</th>
-                <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">중간 운영일</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">VIDEO</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">IMAGE</th>
                 <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">TEXT</th>
-                <th className="px-3 py-3 text-right text-xs font-medium uppercase tracking-wider text-slate-500">고유 LP</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-slate-700/40">
@@ -82,11 +80,9 @@ export default function Home() {
                       ? <span className="rounded bg-rose-900/50 px-2 py-0.5 text-xs font-semibold text-rose-400">-{k.stopped_24h}</span>
                       : <span className="text-slate-600">-</span>}
                   </td>
-                  <td className="px-3 py-3 text-right text-slate-300">{k.median_run_days ?? <span className="text-slate-600">-</span>}</td>
                   <td className="px-3 py-3 text-right text-slate-300">{k.format_video || <span className="text-slate-600">-</span>}</td>
                   <td className="px-3 py-3 text-right text-slate-300">{k.format_image || <span className="text-slate-600">-</span>}</td>
                   <td className="px-3 py-3 text-right text-slate-300">{k.format_text || <span className="text-slate-600">-</span>}</td>
-                  <td className="px-3 py-3 text-right text-slate-300">{k.unique_landing_pages || <span className="text-slate-600">-</span>}</td>
                 </tr>
               ))}
             </tbody>

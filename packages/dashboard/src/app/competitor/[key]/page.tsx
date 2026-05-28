@@ -45,7 +45,6 @@ export default async function CompetitorPage({ params, searchParams }: {
               <Chip label="활성" value={kpi.active_total} color="text-violet-300" />
               <Chip label="신규 24h" value={`+${kpi.new_24h}`} color="text-emerald-400" />
               <Chip label="종료 24h" value={`-${kpi.stopped_24h}`} color="text-rose-400" />
-              <Chip label="운영일 중간값" value={kpi.median_run_days != null ? `${kpi.median_run_days}일` : '-'} color="text-sky-300" />
             </div>
           )}
         </div>
